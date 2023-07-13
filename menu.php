@@ -3,3 +3,5 @@
 <?php echo "MAJOR : ENGINEERING COMPUTER "; ?>
 <?php echo "TEL : 888888888888"; ?>
 <?php echo "I LIKE CAT "; ?>
+<?php echo " MAHANAKORN "; ?>
+<?php echo " TECHNOLOGY "; ?>
